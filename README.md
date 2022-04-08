@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @torbjorntitlestad
-- 👀 I’m interested in Azure plattform developmen, Office 365 adoption and services, Microsoft Dyamics 365 services and apps. 
+- 👀 I’m interested in Azure plattform development, Office 365 adoption and services, Microsoft Dyamics 365 services and apps. 
 - 🌱 I’m currently learning how to depoy infrasturcture as code from GitHub
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - I'm @titlestad79 on twitter
